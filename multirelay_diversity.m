@@ -1,4 +1,8 @@
-% Signal to Noise Ratio (SNR)
+% Anghel, P. A., & Kaveh, M. (2004). 
+% Exact symbol error probability of a cooperative network in a Rayleigh-fading environment. 
+% IEEE Transactions on Wireless Communications, 3(5), 1416–1421.
+% Fig.2
+
 SNR1 = 0:1:24; 
 N = 5e6; % # of symbols
 A = sqrt(2); % Maximum aplitude of the cos wave being sent

@@ -1,4 +1,9 @@
-% Signal to Noise Ratio (SNR)
+% Yang, L.-L., & Chen, H.-H. (2008). 
+% Error probability of digital communications using relay diversity over Nakagami-m fading channels. 
+% IEEE Transactions on Wireless Communications, 7(5), 1806–1811.
+% Fig.3 (only BPSK)
+
+
 SNR1 = 0:1:30; 
 N = 1e6; % # of symbols
 A = sqrt(2); % Maximum aplitude of the cos wave being sent

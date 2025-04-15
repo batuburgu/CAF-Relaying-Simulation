@@ -1,3 +1,8 @@
+% Ikki, S., & Ahmed, M. H. (2007). 
+% Performance analysis of cooperative diversity wireless networks over Nakagami-m fading channel. 
+% IEEE Communications Letters, 11(4), 334–336.
+% Fig.2
+
 % Signal to Noise Ratio (SNR)
 SNR1 = 0:1:25; 
 
