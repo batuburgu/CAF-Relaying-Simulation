@@ -11,12 +11,12 @@ This repository provides MATLAB simulations for analyzing the performance of **C
 Simulates the **Symbol Error Rate (SER)** of a CAF system under **Nakagami-m fading** where the channels between source-relay and relay-destination have **different m parameters**.
 
 📄 **Reference**:  
-> A. Agustin and J. Vidal,  
-> *Symbol error probability analysis of cooperative diversity protocols under Nakagami-m fading*,  
-> IEEE Communications Letters, vol. 9, no. 1, pp. 20–22, Jan. 2005.  
+> Yang, L.-L., & Chen, H.-H.
+> *Error probability of digital communications using relay diversity over Nakagami-m fading channels*,  
+> IEEE Transactions on Wireless Communications, 7(5), 1806–1811, 2008.  
 
 📊 **Reproduced Content**:  
-- SER vs. SNR plots for asymmetric fading conditions
+- Figure 3. (only BPSK)
 
 ---
 
@@ -30,7 +30,7 @@ Analyzes the **BER performance of multi-branch CAF systems** using an **analytic
 > IEEE Communications Letters, vol. 11, no. 4, pp. 334–336, Apr. 2007.  
 
 📊 **Reproduced Content**:  
-- BER approximation curves for various number of relays
+- Figure 2.
 
 ---
 
@@ -39,10 +39,10 @@ Analyzes the **BER performance of multi-branch CAF systems** using an **analytic
 Explores the **diversity gain** in CAF systems by evaluating the effect of increasing the number of relays on BER performance.
 
 📄 **Reference**:  
-> M. O. Hasna and M. S. Alouini,  
-> *Harmonic mean and end-to-end performance of transmission systems with relays*,  
-> IEEE Transactions on Communications, vol. 52, no. 1, pp. 130–135, Jan. 2004.  
+> Anghel, P. A., & Kaveh, M.,  
+> *Exact symbol error probability of a cooperative network in a Rayleigh-fading environment*,  
+> IEEE Transactions on Wireless Communications, 3(5), 1416–1421, 2004.  
 
 📊 **Reproduced Content**:  
-- BER vs. SNR curves showing improved diversity with increasing relays
+- Figure 2.
 
